@@ -2,14 +2,6 @@
 #include "SPI.h"
 uint32_t Color;
 
-long randPixel;
-long offsetR;
-long offsetG;
-long offsetB;
-long randR;
-long randG;
-long randB;
-
 
 
 #if defined(USB_SERIAL) || defined(USB_SERIAL_ADAFRUIT)

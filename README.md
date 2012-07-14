@@ -1,0 +1,1 @@
+Arduino code for the Adafruit digitally addressable RGB LED light strip via LPD8806.
